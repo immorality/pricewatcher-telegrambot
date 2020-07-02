@@ -1,0 +1,100 @@
+{
+    "rozetka.com.ua": [
+        "content-inner body-layout-large",
+        "div",
+        "class",
+        "value:"
+    ],
+    "mediamarkt.pl": [
+        "price",
+        "span",
+        "itemprop"
+    ],
+    "mediaexpert.pl": [
+        "a-price_new is-big",
+        "div",
+        "class"
+    ],
+    "morele.net": [
+        "price-new",
+        "div",
+        "class"
+    ],
+    "citrus.ua": [
+        "price",
+        "div",
+        "class"
+    ],
+    "allo.ua": [
+        "metric",
+        "div",
+        "class"
+    ],
+    "foxtrot.com.ua": [
+        "price__relevant",
+        "div",
+        "class"
+    ],
+    "exist.ua": [
+        "price",
+        "div",
+        "class"
+    ],
+    "lamoda.ua": [
+        "width-wrapper clearfix",
+        "div",
+        "class",
+        "current:"
+    ],
+    "staff-clothes.com": [
+        "product__price",
+        "div",
+        "class"
+    ],
+    "fjallraven.in.ua": [
+        "list-unstyled",
+        "div",
+        "class"
+    ],
+    "apple.com": [
+        "priceFinance",
+        "div",
+        "class"
+    ],
+    "olx.pl": [
+        "space fright nowrap rel",
+        "div",
+        "class"
+    ],
+    "allegro.pl": [
+        "_9a071_1Q_68",
+        "div",
+        "class"
+    ],
+    "top-e.com.ua": [
+        "inner",
+        "div",
+        "class"
+    ],
+    "komputronik.pl": [
+        "price",
+        "span",
+        "class"
+    ],
+    "eshop.elit.ua": [
+        "price",
+        "div",
+        "class"
+    ],
+    "online.avtolider-ua.com": [
+        "item-price",
+        "div",
+        "class"
+    ],
+    "x-kom.pl": [
+        "u7xnnm-4 iVazGO",
+        "div",
+        "class",
+        null
+    ]
+}

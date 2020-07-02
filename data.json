@@ -1,0 +1,65 @@
+{
+    "330266255": {
+        "name": "@Dismorality",
+        "items": {
+            "xiaomi mi i7": {
+                "https": "https://rozetka.com.ua/ua/xiaomi_mi_notebook_pro_jyu4057cn/p73999947/",
+                "price": "34 599"
+            },
+            "rozetka i5": {
+                "https": "https://rozetka.com.ua/ua/xiaomi_mi_notebook_pro_156_core_i5_8_256gb_10504g/p64632925/",
+                "price": "27 599"
+            },
+            "media ps4": {
+                "https": "https://mediamarkt.pl/konsole-i-gry/konsola-sony-playstation-4-slim-1tb-f-chassis-kontroler-dualshock-4-v2-czarny-fifa-20-playstation-plus-14-dni?querystring=playstation%204%20konsola",
+                "price": "1699"
+            },
+            "ps4": {
+                "https": "https://www.x-kom.pl/p/547794-konsola-playstation-sony-playstation-4-slim-1tb-pad.html",
+                "price": "1 499,00 zł"
+            }
+        }
+    },
+    "384079701": {
+        "name": "@yurakhoma",
+        "items": {
+            "GamePad": {
+                "https": "https://rozetka.com.ua/ua/logitech_gamepad_f310_940_000135/p283504/",
+                "price": "589"
+            },
+            "Polar Backpack": {
+                "https": "https://www.lamoda.ua/p/po001budcua9/bags-polar-ryukzak/",
+                "price": "604"
+            }
+        }
+    },
+    "369977872": {
+        "name": "@nastiamhl",
+        "items": {}
+    },
+    "396497208": {
+        "name": "@Inna_Vin",
+        "items": {}
+    },
+    "368578821": {
+        "name": "@Vladykq",
+        "items": {}
+    },
+    "607815275": {
+        "name": "@call_me_andriy",
+        "items": {}
+    },
+    "318902690": {
+        "name": "Vitya",
+        "items": {
+            "Huawei p30": {
+                "https": "https://www.x-kom.pl/p/483692-smartfon-telefon-huawei-p30-128gb-czarny.html",
+                "price": "2 099,00 zł"
+            },
+            "p30": {
+                "https": "https://mediamarkt.pl/telefony-i-smartfony/smartfon-huawei-p30-opal?cd=6719652947&ad=81925765849&kd=&gclid=CjwKCAjw95D0BRBFEiwAcO1KDAB40wom7WcCdY_7FnxmkvPHy-ss6vfwxRktbZlQn29Q-iz4dJ60LBoCsSAQAvD_BwE",
+                "price": "2099"
+            }
+        }
+    }
+}
